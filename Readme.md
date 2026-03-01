@@ -2,6 +2,7 @@
 
 ```md
 id="lamis-whitepaper"
+🤖 LAMIS — LARGE MULTIMODAL SYSTEM 
 ```
 ### Whitepaper (2026 Edition)
 
@@ -185,10 +186,11 @@ LAMIS is **embodied intelligence** — a leap beyond software into real-world au
 
 ## 🔗 Links
 
-- [LAMIS Repository](#docutils/docs.md)  
+- [LAMIS Repository](#)  
 - [Unitree G1 Official](https://www.unitree.com/)  
 - [Intel RealSense](https://www.intelrealsense.com/)  
-
+  [LASMI](https://fastht.ml)
+[lasmi website](#)
 ---
 
 *© 2026 LAMIS — Large Multimodal System. All Rights Reserved.*
