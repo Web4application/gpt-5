@@ -2,7 +2,7 @@
 # 🤖 LAMIS — LARGE MULTIMODAL SYSTEM  
 ### Real-Time Voice + Vision AI for Physical Robots
 
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Python Version](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#fastht.ml)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Python Version](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#lasmi.ai)
 
 > Giving robots perception, conversation, and autonomous social response — in real time.
 
