@@ -72,7 +72,7 @@ which it belongs.
 
 Node.js relies on V8 and libuv. We adopt a subset of their supported platforms.
 
-### Strategy
+### Strategy 
 
 There are three support tiers:
 
