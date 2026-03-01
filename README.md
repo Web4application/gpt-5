@@ -1,4 +1,4 @@
-# 🤖 G1 Multimodal Intelligence System  
+# 🤖 G1 LARGE Multimodal Intelligence System  
 
 ### Real-Time Voice + Vision AI for Physical Robots
 
